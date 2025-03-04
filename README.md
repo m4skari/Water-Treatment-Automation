@@ -25,4 +25,4 @@ This project was the final project of the Industrial Automation course at the Un
 
 
 ## Author
-[Mphammad Askari]
+Mohammad Askari
